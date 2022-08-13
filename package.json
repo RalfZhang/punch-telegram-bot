@@ -1,0 +1,17 @@
+{
+  "name": "punch-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RalfZhang",
+  "license": "MIT",
+  "dependencies": {
+    "knex": "^2.2.0",
+    "mysql": "^2.18.1",
+    "node-mysql": "^0.4.2",
+    "node-telegram-bot-api": "^0.58.0"
+  }
+}
