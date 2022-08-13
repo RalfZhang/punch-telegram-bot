@@ -9,6 +9,7 @@
   "author": "RalfZhang",
   "license": "MIT",
   "dependencies": {
+    "dayjs": "^1.11.5",
     "knex": "^2.2.0",
     "mysql": "^2.18.1",
     "node-mysql": "^0.4.2",
